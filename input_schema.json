@@ -30,7 +30,7 @@
       "title": "Download Images",
       "name": "download_images",
       "type": "boolean",
-      "editor": "checkbox",
+      "editor": "switch",
       "description": "Does the collected content include images",
       "default": false
     }
