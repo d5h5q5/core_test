@@ -3,7 +3,7 @@
   "b": "startURLs",
   "properties": [
     {
-      "title": "Start URLs",
+      "title": "Start URLs Test",
       "name": "startURLs",
       "type": "array",
       "editor": "requestList",
